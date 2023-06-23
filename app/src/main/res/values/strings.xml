@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imagey</string>
+    <string name="open_gallery_txt">Open Gallery</string>
+    <string name="gallery_photos_txt">Gallery Photos</string>
+</resources>
