@@ -1,3 +1,2 @@
 # Imagey
-To see Images
-To open other app in your app
+To see Images of other app in your app
